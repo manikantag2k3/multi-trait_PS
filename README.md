@@ -21,7 +21,7 @@ This project aims to develop a web application that predicts multiple traits (su
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/annapurnameghana/Multi-Trait-Wheat-Prediction.git
+   git clone https://github.com/manikantag2k3/multi-trait_PS.git
    ```
 2. Navigate to the project directory:
    ```bash
